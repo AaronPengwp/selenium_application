@@ -1,0 +1,2 @@
+ip_requsets.py 查询并确认代理ip的有效性
+lagou_selenium.py 使用selenium模拟浏览器的方式爬取拉勾网的招聘信息
